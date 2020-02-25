@@ -32,19 +32,15 @@
 }
 
 .js, .line {
-    width: 50%;
+    width: 70%;
 }
 
 .python {
     width: 80%;
 }
 
-.html {
+.html, .css {
     width: 90%;
-}
-
-.css {
-    width: 60%;
 }
 
 .git {
