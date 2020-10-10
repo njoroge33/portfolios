@@ -66,3 +66,11 @@
     color: #000;
     text-decoration: none;
 }
+
+.card-header{
+    font-weight: bold;
+}
+
+.img2{
+    margin-top: 1%;
+}
